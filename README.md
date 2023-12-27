@@ -6,16 +6,18 @@
 # 2	PROJE DETAYI
 Bir okuldaki eğitime ait veriler bir veri tabanında kayıt altına alınmak istenmektedir. Bu kapsamda öğrencilere, derslere ve öğretim üyelerine ait veriler sisteme girilebilecek, güncellenebilecek ve silinebilecektir.
 Girilen veriler doğrultusunda aşağıdaki sorgulamalar yapılabilecektir.
+
 • Doğum yeri aynı olan öğrenciler,
+
 • Doğum tarihi aynı olan öğrenciler,
-• Girilen şehirde doğmuş olan ve notu girilen değerden yüksek olan öğrenciler
-• Girilen dersten 50'nin altında not alan öğrenciler
+
+• Girilen şehirde doğmuş olan ve notu girilen değerden yüksek olan öğrenciler,
+
+• Girilen dersten 50'nin altında not alan öğrenciler,
+
 • Girilen öğretim üyesinin (istenirse ID kullanılabilir) ismi belirtilen dersinden geçen ve kalan öğrenci sayısı
 Sorgu sonuçları uygun nesne içerisinde gösterilebilecektir.
-Menü kullanılabilir.
-Ödev uygulama yanında ödev şablonu formatında rapor olarak sunulacaktır.
-Tablolar istendiği gibi düzenlenebilir.
-İstenilen veri tabanı kullanılabilir.
+
 Yani genel olarak veri tabanına öğrenci, ders ve öğretim üyesi verilerini ekleyebilme, güncelleme, silme gibi işlemleri yapabilmek ve ardından belirli sorgularla veriler üzerinde analizler gerçekleştirebilmektir. Bu sorgular arasında doğum yeri veya tarihi aynı olan öğrencileri bulma, belirli bir şehirde doğmuş ve belirli bir notu almış öğrencileri bulma, belirli bir dersten düşük not alan öğrencileri bulma ve öğretim üyesinin dersinden geçen veya kalan öğrenci sayısını bulma gibi örnekler yer alıyor.
 
 # 3	PROJE YAPISI
