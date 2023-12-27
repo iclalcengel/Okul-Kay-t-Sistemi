@@ -1,0 +1,58 @@
+C:\Users\iclal\Desktop\okulkayit\okulkayit\bin\Debug\net8.0-windows\okulkayit.exe
+C:\Users\iclal\Desktop\okulkayit\okulkayit\bin\Debug\net8.0-windows\okulkayit.deps.json
+C:\Users\iclal\Desktop\okulkayit\okulkayit\bin\Debug\net8.0-windows\okulkayit.runtimeconfig.json
+C:\Users\iclal\Desktop\okulkayit\okulkayit\bin\Debug\net8.0-windows\okulkayit.dll
+C:\Users\iclal\Desktop\okulkayit\okulkayit\bin\Debug\net8.0-windows\okulkayit.pdb
+C:\Users\iclal\Desktop\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.Form1.resources
+C:\Users\iclal\Desktop\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.csproj.GenerateResource.cache
+C:\Users\iclal\Desktop\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iclal\Desktop\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.AssemblyInfoInputs.cache
+C:\Users\iclal\Desktop\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.AssemblyInfo.cs
+C:\Users\iclal\Desktop\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.csproj.CoreCompileInputs.cache
+C:\Users\iclal\Desktop\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.dll
+C:\Users\iclal\Desktop\okulkayit\okulkayit\obj\Debug\net8.0-windows\refint\okulkayit.dll
+C:\Users\iclal\Desktop\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.pdb
+C:\Users\iclal\Desktop\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.genruntimeconfig.cache
+C:\Users\iclal\Desktop\okulkayit\okulkayit\obj\Debug\net8.0-windows\ref\okulkayit.dll
+C:\Users\iclal\Desktop\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.dersEkleme.resources
+C:\Users\iclal\Desktop\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.notGirisleri.resources
+C:\Users\iclal\Desktop\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.ogrenciBilgileri.resources
+C:\Users\iclal\Desktop\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.sorgulamalar.resources
+C:\Users\iclal\Desktop\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.csproj.AssemblyReference.cache
+C:\Users\iclal\Desktop\okulkayit\okulkayit\bin\Debug\net8.0-windows\SQLConnection.dll
+C:\Users\iclal\Desktop\okulkayit\okulkayit\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\iclal\Desktop\okulkayit\okulkayit\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\iclal\Desktop\okulkayit\okulkayit\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\iclal\Desktop\okulkayit\okulkayit\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\iclal\Desktop\okulkayit\okulkayit\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\iclal\Desktop\okulkayit\okulkayit\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\iclal\Desktop\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.csproj.CopyComplete
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\bin\Debug\net8.0-windows\okulkayit.exe
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\bin\Debug\net8.0-windows\okulkayit.deps.json
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\bin\Debug\net8.0-windows\okulkayit.runtimeconfig.json
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\bin\Debug\net8.0-windows\okulkayit.dll
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\bin\Debug\net8.0-windows\okulkayit.pdb
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\bin\Debug\net8.0-windows\SQLConnection.dll
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.csproj.AssemblyReference.cache
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.dersEkleme.resources
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.Form1.resources
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.notGirisleri.resources
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.ogrenciBilgileri.resources
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.sorgulamalar.resources
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.csproj.GenerateResource.cache
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.AssemblyInfoInputs.cache
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.AssemblyInfo.cs
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.csproj.CoreCompileInputs.cache
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.csproj.CopyComplete
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.dll
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\obj\Debug\net8.0-windows\refint\okulkayit.dll
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.pdb
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\obj\Debug\net8.0-windows\okulkayit.genruntimeconfig.cache
+C:\Users\iclal\Desktop\BİLGİSAYAR MÜHENDİSLİĞİ 3.SINIF\GÖRSEL PROGRAMLAMA\OKUL KAYİT SİSTEMİ ÖDEVİ\okulkayit\okulkayit\obj\Debug\net8.0-windows\ref\okulkayit.dll
